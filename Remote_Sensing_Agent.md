@@ -263,12 +263,3 @@ project/
 └── logs/
 ```
 
----
-
-## 8. References
-
-Derived from production experience processing 46-80 scene VHR mosaics at 0.5m resolution. Companion files:
-
-- `1.md` — Pan-sharpen: 11 failed attempts, 1 working method
-- `2.md` — Mosaic Dataset: color balance, seamlines, band order
-- `3.md` — Radiometric harmonization: failures and lessons
